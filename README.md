@@ -26,7 +26,7 @@ Javascript, HTML, CSS, React.JS, and TailwindCSS.
 1. Clone the repository to your local machine
 
 ```bash
-  git clone https://github.com/omunite215/React-Admin-DashBoard.git
+  git clone https://github.com/MohammedMaher177/React-Admin-Dashboard.git
 
 ```
 2. Navigate to the project directory
